@@ -1,6 +1,17 @@
-header{
+body {
+    width: 44%;
+    margin: 50px 200px;
+    font-size: 0.75em;
+}
+
+.derecha {
     text-align: right;
 }
-footer{
-    text-align: left;
+
+.italica {
+    font-style: italic;
+}
+
+.salta {
+    white-space: pre;
 }
